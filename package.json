@@ -1,0 +1,26 @@
+{
+  "name": "aba.sia",
+  "version": "1.0.0",
+  "description": "Classroom activities",
+  "keywords": [
+    "sia"
+  ],
+  "homepage": "https://github.com/abajoseph/acitivity_sia#readme",
+  "bugs": {
+    "url": "https://github.com/abajoseph/acitivity_sia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abajoseph/acitivity_sia.git"
+  },
+  "license": "(ISC)",
+  "author": "Aba, joseph",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
